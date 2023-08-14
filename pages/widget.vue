@@ -19,15 +19,8 @@
       class="px-4 py-3 flex items-center justify-between sticky bottom-0 z-50 bg-white bg-opacity-50 backdrop-blur-xl text-xs border-t border-slate-100"
     >
       <a
-        class="text-gray-500"
-        href="https://github.com/fayazara/logspot"
-        target="_blank"
-      >
-        Powered by logspot
-      </a>
-      <a
         class="text-primary"
-        href="https://github.com/fayazara/logspot"
+        href="https://changelog.chathub.gg"
         target="_blank"
       >
         See all updates

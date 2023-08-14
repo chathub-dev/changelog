@@ -1,9 +1,6 @@
 <template>
   <main class="min-h-screen relative">
     <hero />
-    <!-- // Remove this once you clone the template -->
-    <github />
-    <!-- // Remove this once you clone the template -->
     <section
       class="relative mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 overflow-hidden"
     >

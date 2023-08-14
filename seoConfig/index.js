@@ -1,12 +1,10 @@
 export default {
-  title: "Logspot - Opensource changelog template",
-  description:
-    "Logspot is an open source change log template made with Nuxt, Vue, and Tailwindcss.",
+  title: "ChatHub - All-in-one chatbot client",
+  description: "Use ChatGPT, Bing, Bard, Claude and more chatbots simultaneously",
   og: {
-    title: "Logspot - Opensource changelog template",
-    description:
-      "Logspot is an open source change log template made with Nuxt, Vue, and Tailwindcss.",
-    image: "https://logspot.vercel.app/logspot-banner.png",
-    url: "https://logspot.vercel.app",
+    title: "ChatHub - All-in-one chatbot client",
+    description: "Use ChatGPT, Bing, Bard, Claude and more chatbots simultaneously",
+    image: "https://chathub.gg/og-image.png",
+    url: "https://chathub.gg",
   },
 };
