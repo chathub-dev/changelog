@@ -5,7 +5,7 @@
         <h1
           class="text-4xl font-extrabold tracking-tight text-slate-700 sm:text-5xl"
         >
-          ChatHub Changelog
+          <a href="https://chathub.gg/?utm_source=changelog">ChatHub</a> Changelog
         </h1>
       </div>
     </div>
